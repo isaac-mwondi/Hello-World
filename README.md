@@ -1,4 +1,4 @@
 # Hello-World
-First repository
-I go by the nouns Isaac Mwondi Venant
+My First GitHub repository
+Isaac Mwondi Venant
 Currently a 4th year engineering student at Dedan Kimathi University of Technology
